@@ -10,9 +10,9 @@
 .btn-portfolio {
     color: var(--title-text-color);
     background-color: #f5f4fa;
-    font-family: 'Roboto';
+    font-family: var(--primary-font-family);
     font-style: normal;
-    font-weight: 500;
+    font-weight: var(--medium-font-weight);
     font-size: 16px;
     line-height: 1.62;
 

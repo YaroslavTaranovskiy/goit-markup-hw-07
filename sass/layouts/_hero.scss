@@ -18,9 +18,9 @@
 
 .hero-title {
     color: var(--white-text);
-    font-family: 'Roboto';
+    font-family: var(--primary-font-family);
     font-style: normal;
-    font-weight: 900;
+    font-weight: var(--black-font-weight);
     font-size: 44px;
     line-height: 1.36;
     text-align: center;
